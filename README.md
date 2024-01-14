@@ -1,4 +1,4 @@
-The Router Case is a remixed Version of Olavs Coverbox https://www.thingiverse.com/thing:4523275/files All Credits go to him.
+The picam Cover is a remixed Version of Olavs Coverbox https://www.thingiverse.com/thing:4523275/files All Credits go to him.
 
 
 Android Apps:
