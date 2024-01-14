@@ -24,3 +24,6 @@ https://www.amazon.de/dp/B09N72FMH5?psc=1&ref=ppx_yo2ov_dt_b_product_details
 Antennas for Picam
 TP Link TLWN822N
 https://www.reichelt.de/wlan-adapter-usb-300-mbit-s-tplink-tlwn822n-p124341.html?PROVID=2788&gclid=CjwKCAiAqY6tBhAtEiwAHeRopQorQGYtzYg65olh1Ow2BhIzYwPnglb1Fs1N0KI1uOG1PNzpDK6QNxoCB-wQAvD_BwE
+
+Mounting Adapter for cases to Tripod 3x
+https://www.amazon.de/dp/B0CFL53GLL/ref=sspa_dk_detail_3?psc=1&pf_rd_p=ae2317a0-2175-4285-af64-66539858231f&pf_rd_r=F7AV99332VVYTZ1NV8WN&pd_rd_wg=aUzVq&pd_rd_w=Nv2gY&content-id=amzn1.sym.ae2317a0-2175-4285-af64-66539858231f&pd_rd_r=4de89675-3452-4248-a7b9-02144e06f31e&s=photo&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw
