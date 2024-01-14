@@ -1,3 +1,6 @@
+The Router Case is a remixed Version of Olavs Coverbox https://www.thingiverse.com/thing:4523275/files All Credits go to him.
+
+
 Android Apps:
 App F3B Timer from Gerhard. For 1 Cam per Base.
 https://github.com/gerhardf1/F3B-Timer/blob/main/F3BTimer.apk
