@@ -8,9 +8,12 @@ https://github.com/gerhardf1/F3B-Timer/blob/main/F3BTimer.apk
 Darjes F3F App. For 2 Cameras just at Base B in continuos Beep mode.
 https://github.com/darjes/F3FTimer
 
-Picams:
+Picam Software:
 Image from Barney. 
 https://github.com/barney-NG/piCAMTracker
+
+Raspberry Pi4B:
+https://www.reichelt.de/raspberry-pi-4-b-4x-1-5-ghz-8-gb-ram-wlan-bt-rasp-pi-4-b-8gb-p276923.html?PROVID=2788&gclid=CjwKCAiAqY6tBhAtEiwAHeRopWtnpLY0Oh9gaByQfxBYheFuPy6rArJaMJhXdbByx9MWRPPF9QYOgRoCFV4QAvD_BwE
 
 Cameras:
 Picam V2.1
