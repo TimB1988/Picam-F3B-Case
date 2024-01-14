@@ -16,6 +16,7 @@ Raspberry Pi4B:
 https://www.reichelt.de/raspberry-pi-4-b-4x-1-5-ghz-8-gb-ram-wlan-bt-rasp-pi-4-b-8gb-p276923.html?PROVID=2788&gclid=CjwKCAiAqY6tBhAtEiwAHeRopWtnpLY0Oh9gaByQfxBYheFuPy6rArJaMJhXdbByx9MWRPPF9QYOgRoCFV4QAvD_BwE
 
 Cameras:
+
 -Picam V2.1
 https://www.reichelt.de/raspberry-pi-kamera-8mp-67-v2-rasp-cam-2-p170853.html?PROVID=2788&gclid=CjwKCAiAqY6tBhAtEiwAHeRopS3L485-I7U87Pas066ngAdKTHVezLU1kpjx3ceilV3jMmP8e4KOlhoCzoUQAvD_BwE
 
