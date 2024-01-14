@@ -18,6 +18,7 @@ https://www.reichelt.de/raspberry-pi-4-b-4x-1-5-ghz-8-gb-ram-wlan-bt-rasp-pi-4-b
 Cameras:
 -Picam V2.1
 https://www.reichelt.de/raspberry-pi-kamera-8mp-67-v2-rasp-cam-2-p170853.html?PROVID=2788&gclid=CjwKCAiAqY6tBhAtEiwAHeRopS3L485-I7U87Pas066ngAdKTHVezLU1kpjx3ceilV3jMmP8e4KOlhoCzoUQAvD_BwE
+
 -UV Filter 46mm
 https://www.kentfaith.de/KF01.K46V2_k&f-concept-uv-filter-46mm-slim-mc-uv-schutzfilter-ultrad%C3%BCnner-rahmen-nano-k-serie?gad_source=1&gclid=CjwKCAiAqY6tBhAtEiwAHeRopZskpJ0NByzc3sSjgAotnV42KbNXjmzIRrmoJxILuxHKQk3yZUlC3BoCU8sQAvD_BwE
 
